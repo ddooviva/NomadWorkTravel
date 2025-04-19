@@ -10,10 +10,9 @@
             "_debugNeedsRemount": false,
             "_debugOwner": [FiberNode
             ],
-            "actualDuration": 0.7391250133514404,
-            "actualStartTime": 146476387.447958,
-            "alternate": [FiberNode
-            ],
+            "actualDuration": 1.0154150002636015,
+            "actualStartTime": 3194115.595625,
+            "alternate": null,
             "child": [FiberNode
             ],
             "childLanes": 0,
@@ -21,10 +20,10 @@
             "dependencies": null,
             "elementType": [Function InternalTextInput
             ],
-            "flags": 12582917,
+            "flags": 12584965,
             "index": 0,
             "key": null,
-            "lanes": 2,
+            "lanes": 0,
             "memoizedProps": [Object
             ],
             "memoizedState": [Object
@@ -36,65 +35,26 @@
             "refCleanup": null,
             "return": [FiberNode
             ],
-            "selfBaseDuration": 0.4814999997615814,
+            "selfBaseDuration": 0.3332079998217523,
             "sibling": null,
             "stateNode": null,
-            "subtreeFlags": 2097668,
+            "subtreeFlags": 2097664,
             "tag": 0,
-            "treeBaseDuration": 0.5212499797344208,
+            "treeBaseDuration": 0.3632490001618862,
             "type": [Function InternalTextInput
             ],
             "updateQueue": [Object
             ]
         },
-        "actualDuration": 0.2194579839706421,
-        "actualStartTime": 146476387.958208,
-        "alternate": {
-            "_debugHookTypes": null,
-            "_debugInfo": null,
-            "_debugNeedsRemount": false,
-            "_debugOwner": [FiberNode
-            ],
-            "actualDuration": 0.29795899987220764,
-            "actualStartTime": 146476537.442,
-            "alternate": [Circular
-            ],
-            "child": null,
-            "childLanes": 0,
-            "deletions": null,
-            "dependencies": null,
-            "elementType": "RCTSinglelineTextInputView",
-            "flags": 2097668,
-            "index": 0,
-            "key": null,
-            "lanes": 0,
-            "memoizedProps": [Object
-            ],
-            "memoizedState": null,
-            "mode": 3,
-            "pendingProps": [Object
-            ],
-            "ref": [Function anonymous
-            ],
-            "refCleanup": undefined,
-            "return": [FiberNode
-            ],
-            "selfBaseDuration": 0.017459005117416382,
-            "sibling": null,
-            "stateNode": [Object
-            ],
-            "subtreeFlags": 0,
-            "tag": 5,
-            "treeBaseDuration": 0.017459005117416382,
-            "type": "RCTSinglelineTextInputView",
-            "updateQueue": null
-        },
+        "actualDuration": 0.6513740001246333,
+        "actualStartTime": 3194115.953791,
+        "alternate": null,
         "child": null,
         "childLanes": 0,
         "deletions": null,
         "dependencies": null,
         "elementType": "RCTSinglelineTextInputView",
-        "flags": 2097668,
+        "flags": 2097664,
         "index": 0,
         "key": null,
         "lanes": 0,
@@ -103,21 +63,27 @@
             "accessible": true,
             "allowFontScaling": true,
             "autoComplete": undefined,
+            "autoFocus": true,
             "caretHidden": undefined,
             "dataDetectorTypes": undefined,
+            "defaultValue": "ㅁㅇㅌㅓㅋㅌㅊd",
             "editable": undefined,
             "focusable": true,
             "forwardedRef": null,
             "keyboardType": undefined,
-            "mostRecentEventCount": 5,
+            "mostRecentEventCount": 0,
             "nativeID": undefined,
             "onBlur": [Function _onBlur
             ],
             "onChange": [Function _onChange
             ],
+            "onChangeText": [Function onChangeText
+            ],
             "onClick": [Function onClick
             ],
             "onContentSizeChange": undefined,
+            "onEndEditing": [Function onEndEditing
+            ],
             "onFocus": [Function _onFocus
             ],
             "onResponderGrant": [Function onResponderGrant
@@ -138,18 +104,15 @@
             ],
             "onStartShouldSetResponder": [Function onStartShouldSetResponder
             ],
-            "onSubmitEditing": [Function onChange
-            ],
-            "placeholder": "Wite your To Do",
             "rejectResponderTermination": true,
             "returnKeyType": undefined,
             "selection": null,
             "selectionColor": undefined,
             "showSoftInputOnFocus": undefined,
-            "style": [Object
+            "style": [Array
             ],
             "submitBehavior": "blurAndSubmit",
-            "text": "",
+            "text": "ㅁㅇㅌㅓㅋㅌㅊd",
             "textContentType": undefined,
             "underlineColorAndroid": "transparent"
         },
@@ -160,21 +123,27 @@
             "accessible": true,
             "allowFontScaling": true,
             "autoComplete": undefined,
+            "autoFocus": true,
             "caretHidden": undefined,
             "dataDetectorTypes": undefined,
+            "defaultValue": "ㅁㅇㅌㅓㅋㅌㅊd",
             "editable": undefined,
             "focusable": true,
             "forwardedRef": null,
             "keyboardType": undefined,
-            "mostRecentEventCount": 5,
+            "mostRecentEventCount": 0,
             "nativeID": undefined,
             "onBlur": [Function _onBlur
             ],
             "onChange": [Function _onChange
             ],
+            "onChangeText": [Function onChangeText
+            ],
             "onClick": [Function onClick
             ],
             "onContentSizeChange": undefined,
+            "onEndEditing": [Function onEndEditing
+            ],
             "onFocus": [Function _onFocus
             ],
             "onResponderGrant": [Function onResponderGrant
@@ -195,18 +164,15 @@
             ],
             "onStartShouldSetResponder": [Function onStartShouldSetResponder
             ],
-            "onSubmitEditing": [Function onChange
-            ],
-            "placeholder": "Wite your To Do",
             "rejectResponderTermination": true,
             "returnKeyType": undefined,
             "selection": null,
             "selectionColor": undefined,
             "showSoftInputOnFocus": undefined,
-            "style": [Object
+            "style": [Array
             ],
             "submitBehavior": "blurAndSubmit",
-            "text": "",
+            "text": "ㅁㅇㅌㅓㅋㅌㅊd",
             "textContentType": undefined,
             "underlineColorAndroid": "transparent"
         },
@@ -219,10 +185,9 @@
             "_debugNeedsRemount": false,
             "_debugOwner": [FiberNode
             ],
-            "actualDuration": 0.2531670033931732,
-            "actualStartTime": 146476387.933583,
-            "alternate": [FiberNode
-            ],
+            "actualDuration": 0.6789990002289414,
+            "actualStartTime": 3194115.931291,
+            "alternate": null,
             "child": [Circular
             ],
             "childLanes": 0,
@@ -244,17 +209,17 @@
             "refCleanup": null,
             "return": [FiberNode
             ],
-            "selfBaseDuration": 0.021874994039535522,
+            "selfBaseDuration": 0.020500000100582838,
             "sibling": null,
             "stateNode": null,
-            "subtreeFlags": 2097668,
+            "subtreeFlags": 2097664,
             "tag": 10,
-            "treeBaseDuration": 0.039749979972839355,
+            "treeBaseDuration": 0.030041000340133905,
             "type": [Object
             ],
             "updateQueue": null
         },
-        "selfBaseDuration": 0.017874985933303833,
+        "selfBaseDuration": 0.009541000239551067,
         "sibling": null,
         "stateNode": {
             "canonical": [Object
@@ -264,11 +229,11 @@
         },
         "subtreeFlags": 0,
         "tag": 5,
-        "treeBaseDuration": 0.017874985933303833,
+        "treeBaseDuration": 0.009541000239551067,
         "type": "RCTSinglelineTextInputView",
         "updateQueue": null
     },
-    "_dispatchListeners": [Function onChange
+    "_dispatchListeners": [Function onEndEditing
     ],
     "_targetInst": {
         "_debugHookTypes": null,
@@ -281,10 +246,9 @@
             "_debugNeedsRemount": false,
             "_debugOwner": [FiberNode
             ],
-            "actualDuration": 0.7391250133514404,
-            "actualStartTime": 146476387.447958,
-            "alternate": [FiberNode
-            ],
+            "actualDuration": 1.0154150002636015,
+            "actualStartTime": 3194115.595625,
+            "alternate": null,
             "child": [FiberNode
             ],
             "childLanes": 0,
@@ -292,10 +256,10 @@
             "dependencies": null,
             "elementType": [Function InternalTextInput
             ],
-            "flags": 12582917,
+            "flags": 12584965,
             "index": 0,
             "key": null,
-            "lanes": 2,
+            "lanes": 0,
             "memoizedProps": [Object
             ],
             "memoizedState": [Object
@@ -307,65 +271,26 @@
             "refCleanup": null,
             "return": [FiberNode
             ],
-            "selfBaseDuration": 0.4814999997615814,
+            "selfBaseDuration": 0.3332079998217523,
             "sibling": null,
             "stateNode": null,
-            "subtreeFlags": 2097668,
+            "subtreeFlags": 2097664,
             "tag": 0,
-            "treeBaseDuration": 0.5212499797344208,
+            "treeBaseDuration": 0.3632490001618862,
             "type": [Function InternalTextInput
             ],
             "updateQueue": [Object
             ]
         },
-        "actualDuration": 0.2194579839706421,
-        "actualStartTime": 146476387.958208,
-        "alternate": {
-            "_debugHookTypes": null,
-            "_debugInfo": null,
-            "_debugNeedsRemount": false,
-            "_debugOwner": [FiberNode
-            ],
-            "actualDuration": 0.29795899987220764,
-            "actualStartTime": 146476537.442,
-            "alternate": [Circular
-            ],
-            "child": null,
-            "childLanes": 0,
-            "deletions": null,
-            "dependencies": null,
-            "elementType": "RCTSinglelineTextInputView",
-            "flags": 2097668,
-            "index": 0,
-            "key": null,
-            "lanes": 0,
-            "memoizedProps": [Object
-            ],
-            "memoizedState": null,
-            "mode": 3,
-            "pendingProps": [Object
-            ],
-            "ref": [Function anonymous
-            ],
-            "refCleanup": undefined,
-            "return": [FiberNode
-            ],
-            "selfBaseDuration": 0.017459005117416382,
-            "sibling": null,
-            "stateNode": [Object
-            ],
-            "subtreeFlags": 0,
-            "tag": 5,
-            "treeBaseDuration": 0.017459005117416382,
-            "type": "RCTSinglelineTextInputView",
-            "updateQueue": null
-        },
+        "actualDuration": 0.6513740001246333,
+        "actualStartTime": 3194115.953791,
+        "alternate": null,
         "child": null,
         "childLanes": 0,
         "deletions": null,
         "dependencies": null,
         "elementType": "RCTSinglelineTextInputView",
-        "flags": 2097668,
+        "flags": 2097664,
         "index": 0,
         "key": null,
         "lanes": 0,
@@ -374,21 +299,27 @@
             "accessible": true,
             "allowFontScaling": true,
             "autoComplete": undefined,
+            "autoFocus": true,
             "caretHidden": undefined,
             "dataDetectorTypes": undefined,
+            "defaultValue": "ㅁㅇㅌㅓㅋㅌㅊd",
             "editable": undefined,
             "focusable": true,
             "forwardedRef": null,
             "keyboardType": undefined,
-            "mostRecentEventCount": 5,
+            "mostRecentEventCount": 0,
             "nativeID": undefined,
             "onBlur": [Function _onBlur
             ],
             "onChange": [Function _onChange
             ],
+            "onChangeText": [Function onChangeText
+            ],
             "onClick": [Function onClick
             ],
             "onContentSizeChange": undefined,
+            "onEndEditing": [Function onEndEditing
+            ],
             "onFocus": [Function _onFocus
             ],
             "onResponderGrant": [Function onResponderGrant
@@ -409,18 +340,15 @@
             ],
             "onStartShouldSetResponder": [Function onStartShouldSetResponder
             ],
-            "onSubmitEditing": [Function onChange
-            ],
-            "placeholder": "Wite your To Do",
             "rejectResponderTermination": true,
             "returnKeyType": undefined,
             "selection": null,
             "selectionColor": undefined,
             "showSoftInputOnFocus": undefined,
-            "style": [Object
+            "style": [Array
             ],
             "submitBehavior": "blurAndSubmit",
-            "text": "",
+            "text": "ㅁㅇㅌㅓㅋㅌㅊd",
             "textContentType": undefined,
             "underlineColorAndroid": "transparent"
         },
@@ -431,21 +359,27 @@
             "accessible": true,
             "allowFontScaling": true,
             "autoComplete": undefined,
+            "autoFocus": true,
             "caretHidden": undefined,
             "dataDetectorTypes": undefined,
+            "defaultValue": "ㅁㅇㅌㅓㅋㅌㅊd",
             "editable": undefined,
             "focusable": true,
             "forwardedRef": null,
             "keyboardType": undefined,
-            "mostRecentEventCount": 5,
+            "mostRecentEventCount": 0,
             "nativeID": undefined,
             "onBlur": [Function _onBlur
             ],
             "onChange": [Function _onChange
             ],
+            "onChangeText": [Function onChangeText
+            ],
             "onClick": [Function onClick
             ],
             "onContentSizeChange": undefined,
+            "onEndEditing": [Function onEndEditing
+            ],
             "onFocus": [Function _onFocus
             ],
             "onResponderGrant": [Function onResponderGrant
@@ -466,18 +400,15 @@
             ],
             "onStartShouldSetResponder": [Function onStartShouldSetResponder
             ],
-            "onSubmitEditing": [Function onChange
-            ],
-            "placeholder": "Wite your To Do",
             "rejectResponderTermination": true,
             "returnKeyType": undefined,
             "selection": null,
             "selectionColor": undefined,
             "showSoftInputOnFocus": undefined,
-            "style": [Object
+            "style": [Array
             ],
             "submitBehavior": "blurAndSubmit",
-            "text": "",
+            "text": "ㅁㅇㅌㅓㅋㅌㅊd",
             "textContentType": undefined,
             "underlineColorAndroid": "transparent"
         },
@@ -490,10 +421,9 @@
             "_debugNeedsRemount": false,
             "_debugOwner": [FiberNode
             ],
-            "actualDuration": 0.2531670033931732,
-            "actualStartTime": 146476387.933583,
-            "alternate": [FiberNode
-            ],
+            "actualDuration": 0.6789990002289414,
+            "actualStartTime": 3194115.931291,
+            "alternate": null,
             "child": [Circular
             ],
             "childLanes": 0,
@@ -515,17 +445,17 @@
             "refCleanup": null,
             "return": [FiberNode
             ],
-            "selfBaseDuration": 0.021874994039535522,
+            "selfBaseDuration": 0.020500000100582838,
             "sibling": null,
             "stateNode": null,
-            "subtreeFlags": 2097668,
+            "subtreeFlags": 2097664,
             "tag": 10,
-            "treeBaseDuration": 0.039749979972839355,
+            "treeBaseDuration": 0.030041000340133905,
             "type": [Object
             ],
             "updateQueue": null
         },
-        "selfBaseDuration": 0.017874985933303833,
+        "selfBaseDuration": 0.009541000239551067,
         "sibling": null,
         "stateNode": {
             "canonical": [Object
@@ -535,7 +465,7 @@
         },
         "subtreeFlags": 0,
         "tag": 5,
-        "treeBaseDuration": 0.017874985933303833,
+        "treeBaseDuration": 0.009541000239551067,
         "type": "RCTSinglelineTextInputView",
         "updateQueue": null
     },
@@ -548,16 +478,15 @@
             "_debugNeedsRemount": false,
             "_debugOwner": [FiberNode
             ],
-            "actualDuration": 0.2194579839706421,
-            "actualStartTime": 146476387.958208,
-            "alternate": [FiberNode
-            ],
+            "actualDuration": 0.6513740001246333,
+            "actualStartTime": 3194115.953791,
+            "alternate": null,
             "child": null,
             "childLanes": 0,
             "deletions": null,
             "dependencies": null,
             "elementType": "RCTSinglelineTextInputView",
-            "flags": 2097668,
+            "flags": 2097664,
             "index": 0,
             "key": null,
             "lanes": 0,
@@ -572,17 +501,17 @@
             "refCleanup": undefined,
             "return": [FiberNode
             ],
-            "selfBaseDuration": 0.017874985933303833,
+            "selfBaseDuration": 0.009541000239551067,
             "sibling": null,
             "stateNode": [Object
             ],
             "subtreeFlags": 0,
             "tag": 5,
-            "treeBaseDuration": 0.017874985933303833,
+            "treeBaseDuration": 0.009541000239551067,
             "type": "RCTSinglelineTextInputView",
             "updateQueue": null
         },
-        "__nativeTag": 16,
+        "__nativeTag": 146,
         "_viewConfig": {
             "Commands": [Object
             ],
@@ -606,8 +535,8 @@
     "defaultPrevented": undefined,
     "dispatchConfig": {
         "phasedRegistrationNames": {
-            "bubbled": "onSubmitEditing",
-            "captured": "onSubmitEditingCapture"
+            "bubbled": "onEndEditing",
+            "captured": "onEndEditingCapture"
         }
     },
     "eventPhase": undefined,
@@ -617,13 +546,13 @@
     ],
     "isTrusted": undefined,
     "nativeEvent": {
-        "eventCount": 6,
+        "eventCount": 0,
         "selection": {
-            "end": 6,
-            "start": 6
+            "end": 8,
+            "start": 8
         },
-        "target": 16,
-        "text": "ㄹㄹㄹㄹㅗㅇ"
+        "target": 146,
+        "text": "ㅁㅇㅌㅓㅋㅌㅊd"
     },
     "target": {
         "__internalInstanceHandle": {
@@ -632,16 +561,15 @@
             "_debugNeedsRemount": false,
             "_debugOwner": [FiberNode
             ],
-            "actualDuration": 0.2194579839706421,
-            "actualStartTime": 146476387.958208,
-            "alternate": [FiberNode
-            ],
+            "actualDuration": 0.6513740001246333,
+            "actualStartTime": 3194115.953791,
+            "alternate": null,
             "child": null,
             "childLanes": 0,
             "deletions": null,
             "dependencies": null,
             "elementType": "RCTSinglelineTextInputView",
-            "flags": 2097668,
+            "flags": 2097664,
             "index": 0,
             "key": null,
             "lanes": 0,
@@ -656,17 +584,17 @@
             "refCleanup": undefined,
             "return": [FiberNode
             ],
-            "selfBaseDuration": 0.017874985933303833,
+            "selfBaseDuration": 0.009541000239551067,
             "sibling": null,
             "stateNode": [Object
             ],
             "subtreeFlags": 0,
             "tag": 5,
-            "treeBaseDuration": 0.017874985933303833,
+            "treeBaseDuration": 0.009541000239551067,
             "type": "RCTSinglelineTextInputView",
             "updateQueue": null
         },
-        "__nativeTag": 16,
+        "__nativeTag": 146,
         "_viewConfig": {
             "Commands": [Object
             ],
@@ -687,6 +615,6 @@
         "setSelection": [Function setSelection
         ]
     },
-    "timeStamp": 1744708487982,
+    "timeStamp": 1745057511890,
     "type": undefined
 }

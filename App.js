@@ -29,7 +29,7 @@ export default function App() {
 
   const loadToDos = async () => {
     const a = await AsyncStorage.getItem("@toDos")
-    setToDos(JSON.parse(a));
+    if (a) { setToDos(JSON.parse(a)); } { setToDos({}) }
   }
 
   useEffect(() => {
